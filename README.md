@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Daniel Balthazar</h1>
 <h3 align="center">I'm a Cybersecurity enthusiast. Software Engineering is a tool in my Penetration Testing Skills.</h3>
 
-- 🔭 I’m currently working on my **React Skills!**
+- 🔭 I’m currently working on my **Data Visualization Project!**
 
-- 🌱 I’m currently learning **Cybersecurity at Masterschool**
+- 🌱 I’m currently learning **Cybersecurity at Laguardia**
 
-- 👯 I’m looking to collaborate on **anything that spikes my interest really.**
+- 👯 I’m looking to collaborate on **nothing. Got too much going on already.**
 
-- 🤝 I’m looking for help with **A Secret Project**
+- 🤝 I’m looking for help with **A Secret Project/Data Visualization**
 
 - 📫 How to reach me **dtbalthazar@gmail.com**
 
-- ⚡ Fun fact **I speak three languages and learning two new ones **
+- ⚡ Fun fact **I live in New York but I prefer off grid locations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
