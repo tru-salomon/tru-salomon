@@ -50,7 +50,7 @@
 
 <p align="center">
   <!-- GitHub contribution snake -->
-  <img src="https://raw.githubusercontent.com/tru-salomon/tru-salomon/output/snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/tru-salomon/tru-salomon/snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
