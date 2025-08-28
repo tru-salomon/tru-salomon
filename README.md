@@ -50,10 +50,10 @@
 
 <p align="center">
   <!-- GitHub contribution snake -->
-  <img src="https://github.com/dtbalthazar/dtbalthazar/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/tru-salomon/tru-salomon/output/snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
   <!-- Hacker-style activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dtbalthazar&theme=chartreuse-dark&hide_border=true" alt="Daniel's activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tru-salomon&theme=chartreuse-dark&hide_border=true" alt="Activity graph"/>
 </p>
