@@ -40,10 +40,20 @@
 
 ---
 
-<h3 align="left">📊 Signal Traces</h3>
+---
+
+<h3 align="left">💀 Signal Echoes</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dtbalthazar&show_icons=true&theme=tokyonight&hide_border=true" alt="Daniel's GitHub stats" />
+  <!-- Typing effect banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Access+Granted...;Scanning+Target...;Exploits+Deployed...;Persistence+Achieved." alt="Hacker typing effect" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtbalthazar&theme=tokyonight&hide_border=true" alt="Daniel's GitHub streak" />
+  <!-- GitHub contribution snake -->
+  <img src="https://github.com/dtbalthazar/dtbalthazar/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <!-- Hacker-style activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dtbalthazar&theme=chartreuse-dark&hide_border=true" alt="Daniel's activity graph"/>
 </p>
