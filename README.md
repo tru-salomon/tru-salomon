@@ -49,11 +49,6 @@
 </p>
 
 <p align="center">
-  <!-- GitHub contribution snake -->
-  <img src="https://raw.githubusercontent.com/tru-salomon/snake-dark.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
   <!-- Hacker-style activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tru-salomon&theme=chartreuse-dark&hide_border=true" alt="Activity graph"/>
 </p>
